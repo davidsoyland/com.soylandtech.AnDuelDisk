@@ -1,0 +1,7 @@
+#Wed Sep 20 23:00:51 EDT 2017
+base.0=C\:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1a79112165e47f7fcc389ce35ef1db4ca5530cdb
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f93899c7be72a99addb81646ef2599d78b9fa5c0\\classes.dex
+base.1=C\:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f93899c7be72a99addb81646ef2599d78b9fa5c0
+file.0=C\:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1a79112165e47f7fcc389ce35ef1db4ca5530cdb\\classes.dex

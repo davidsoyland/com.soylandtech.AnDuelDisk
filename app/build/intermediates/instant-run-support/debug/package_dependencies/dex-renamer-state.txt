@@ -1,0 +1,7 @@
+#Mon Sep 18 22:27:24 EDT 2017
+base.0=C\:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_bd7dc31a88f3e373b1dc677673e7184b0b3bc449
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_91c129acd66a422928829c790d0586faf279c408\\classes.dex
+base.1=C\:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_91c129acd66a422928829c790d0586faf279c408
+file.0=C\:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_bd7dc31a88f3e373b1dc677673e7184b0b3bc449\\classes.dex

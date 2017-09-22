@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.soylandtech.andueldisk"
+      android:versionCode="1"
+      android:versionName="1.0">
+    <uses-sdk android:minSdkVersion="10" />
+
+    <application android:icon="@drawable/icon" android:label="@string/app_name">
+        <activity android:name=".AnDuelDisk"
+                  android:label="@string/app_name" android:configChanges="orientation">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Calculator"
+                  android:label="@string/app_name" android:configChanges="orientation">
+        </activity>
+        
+        <activity android:name=".ManagePlayers"
+        		  android:label="@string/app_name" android:configChanges="orientation">
+        </activity>
+        <activity android:name=".PlayerDetails"
+        		  android:label="@string/player_details" android:configChanges="orientation">
+        </activity>
+        <activity android:name=".Battle" android:label="@string/battlestep" android:configChanges="orientation"></activity>
+        <activity android:name=".CoinFlip" android:label="@string/app_name" android:configChanges="orientation"></activity>
+        <activity android:name=".DiceRoll" android:label="@string/app_name" android:configChanges="orientation"></activity>
+
+    </application>
+</manifest>

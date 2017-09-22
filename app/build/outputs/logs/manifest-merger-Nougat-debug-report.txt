@@ -1,0 +1,98 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:3:7-43
+		INJECTED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:6:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:6:15-41
+		INJECTED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:8:5-30:19
+	android:label
+		ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:8:48-80
+	android:icon
+		ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:8:18-47
+activity#com.soylandtech.andueldisk.AnDuelDisk
+ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:9:9-15:20
+	android:label
+		ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:10:19-51
+	android:configChanges
+		ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:10:52-87
+	android:name
+		ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:9:19-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:11:13-14:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:12:17-69
+	android:name
+		ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:12:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:13:17-77
+	android:name
+		ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:13:27-74
+activity#com.soylandtech.andueldisk.Calculator
+ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:16:9-18:20
+	android:label
+		ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:17:19-51
+	android:configChanges
+		ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:17:52-87
+	android:name
+		ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:16:19-45
+activity#com.soylandtech.andueldisk.ManagePlayers
+ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:20:9-22:20
+	android:label
+		ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:21:13-45
+	android:configChanges
+		ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:21:46-81
+	android:name
+		ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:20:19-48
+activity#com.soylandtech.andueldisk.PlayerDetails
+ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:23:9-25:20
+	android:label
+		ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:24:13-51
+	android:configChanges
+		ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:24:52-87
+	android:name
+		ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:23:19-48
+activity#com.soylandtech.andueldisk.Battle
+ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:26:9-124
+	android:label
+		ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:26:42-76
+	android:configChanges
+		ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:26:77-112
+	android:name
+		ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:26:19-41
+activity#com.soylandtech.andueldisk.CoinFlip
+ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:27:9-124
+	android:label
+		ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:27:44-76
+	android:configChanges
+		ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:27:77-112
+	android:name
+		ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:27:19-43
+activity#com.soylandtech.andueldisk.DiceRoll
+ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:28:9-124
+	android:label
+		ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:28:44-76
+	android:configChanges
+		ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:28:77-112
+	android:name
+		ADDED from C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\AndroidManifest.xml:28:19-43

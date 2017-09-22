@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lifepointsel">
+        <item>2000</item>
+        <item>4000</item>
+        <item>8000</item>
+        <item>16000</item>
+    </string-array>
+    <string-array name="spinplayer1">
+            <item>Player 1</item>
+        </string-array>
+    <string-array name="spinplayer2">
+            <item>Player 2</item>
+        </string-array>
+    <color name="Shade50">#77000000</color>
+    <string name="add">+</string>
+    <string name="add_player">Add Player</string>
+    <string name="app_name">AnDuelDisk</string>
+    <string name="atk">ATK :</string>
+    <string name="attack">Attack</string>
+    <string name="battlestep">Battle Step</string>
+    <string name="cancel">Cancel</string>
+    <string name="clear">clear</string>
+    <string name="coin">Coin</string>
+    <string name="damage">Damage</string>
+    <string name="def">DEF :</string>
+    <string name="delete_player">Delete Player</string>
+    <string name="dice">Dice</string>
+    <string name="halfLP">1/2</string>
+    <string name="heads">Heads</string>
+    <string name="lifepoints">Life Points</string>
+    <string name="losses">Losses:</string>
+    <string name="manageplayers">Manage Players</string>
+    <string name="noplayers">No Players</string>
+    <string name="notes">Notes</string>
+    <string name="num0">0</string>
+    <string name="num00">00</string>
+    <string name="num000">000</string>
+    <string name="num0000">0000</string>
+    <string name="num1">1</string>
+    <string name="num2">2</string>
+    <string name="num3">3</string>
+    <string name="num4">4</string>
+    <string name="num5">5</string>
+    <string name="num6">6</string>
+    <string name="num7">7</string>
+    <string name="num8">8</string>
+    <string name="num9">9</string>
+    <string name="ok">OK</string>
+    <string name="one_turn_kill">OTK</string>
+    <string name="player1">Player 1</string>
+    <string name="player2">Player 2</string>
+    <string name="player_details">"Player Details"</string>
+    <string name="player_name">Name</string>
+    <string name="save_player">Save Player</string>
+    <string name="startduel">Start Duel</string>
+    <string name="subtract">-</string>
+    <string name="switch_atk">Switch to Attack</string>
+    <string name="switch_def">Switch to Defence</string>
+    <string name="tap_coin">Tap coin to flip.</string>
+    <string name="tap_dice">Tap dice to roll!</string>
+    <string name="verses">VS</string>
+    <string name="wins">Wins:</string>
+</resources>

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\playerdetails.xml",
+        "source": "C:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\src\\main\\res\\layout\\playerdetails.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\startup.xml",
+        "source": "C:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\src\\main\\res\\layout\\startup.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\coinflip.xml",
+        "source": "C:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\src\\main\\res\\layout\\coinflip.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\diceroll.xml",
+        "source": "C:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\src\\main\\res\\layout\\diceroll.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\players_list.xml",
+        "source": "C:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\src\\main\\res\\layout\\players_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\player_list_row.xml",
+        "source": "C:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\src\\main\\res\\layout\\player_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\battle.xml",
+        "source": "C:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\src\\main\\res\\layout\\battle.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calculator.xml",
+        "source": "C:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\src\\main\\res\\layout\\calculator.xml"
+    }
+]

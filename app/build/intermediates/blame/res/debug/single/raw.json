@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\build\\intermediates\\res\\merged\\debug\\raw\\lpcounterzero.ogg",
+        "source": "C:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\src\\main\\res\\raw\\lpcounterzero.ogg"
+    },
+    {
+        "merged": "C:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\build\\intermediates\\res\\merged\\debug\\raw\\lpcounter.ogg",
+        "source": "C:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\src\\main\\res\\raw\\lpcounter.ogg"
+    },
+    {
+        "merged": "C:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\build\\intermediates\\res\\merged\\debug\\raw\\shakedice.ogg",
+        "source": "C:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\src\\main\\res\\raw\\shakedice.ogg"
+    },
+    {
+        "merged": "C:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\build\\intermediates\\res\\merged\\debug\\raw\\counterappears.ogg",
+        "source": "C:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\src\\main\\res\\raw\\counterappears.ogg"
+    },
+    {
+        "merged": "C:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\build\\intermediates\\res\\merged\\debug\\raw\\rolldice.ogg",
+        "source": "C:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\src\\main\\res\\raw\\rolldice.ogg"
+    },
+    {
+        "merged": "C:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\build\\intermediates\\res\\merged\\debug\\raw\\dueldiskactivate.ogg",
+        "source": "C:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\src\\main\\res\\raw\\dueldiskactivate.ogg"
+    },
+    {
+        "merged": "C:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cointoss.ogg",
+        "source": "C:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\src\\main\\res\\raw\\cointoss.ogg"
+    },
+    {
+        "merged": "C:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\build\\intermediates\\res\\merged\\debug\\raw\\coinland.ogg",
+        "source": "C:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\src\\main\\res\\raw\\coinland.ogg"
+    },
+    {
+        "merged": "C:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\build\\intermediates\\res\\merged\\debug\\raw\\mondestroyed.ogg",
+        "source": "C:\\Users\\David\\StudioProjects\\com.soylandtech.AnDuelDisk\\app\\src\\main\\res\\raw\\mondestroyed.ogg"
+    }
+]

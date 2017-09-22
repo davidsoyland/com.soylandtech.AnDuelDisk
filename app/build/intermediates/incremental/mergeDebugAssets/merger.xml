@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="C:\Users\David\.android\build-cache\3c0444613cf50377142ee7251e492d7f6a4d9e4c\output\assets"/></dataSet><dataSet config="main"><source path="C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\main\assets"/><source path="C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\David\StudioProjects\com.soylandtech.AnDuelDisk\app\src\debug\assets"/></dataSet></merger>

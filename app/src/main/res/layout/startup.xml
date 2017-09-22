@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    android:scrollbars="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/RelativeLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <Spinner
+            android:id="@+id/spinPlayer1"
+            style="@android:style/Widget.Spinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="false"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+            android:prompt="@string/player1"
+            android:spinnerMode="dropdown" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/spinPlayer1"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center_horizontal|clip_vertical"
+            android:text="@string/verses"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <Spinner
+            android:id="@+id/spinPlayer2"
+            style="@android:style/Widget.Spinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_below="@+id/textView2"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="30dp"
+            android:padding="10dp"
+            android:prompt="@string/player2"
+            android:spinnerMode="dropdown" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        style="@android:style/Widget.Material.Spinner"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center_horizontal"
+        android:padding="10dp">
+
+        <Spinner
+            android:id="@+id/spinLifePoints"
+            style="@android:style/Widget.Spinner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/textView1"
+            android:layout_alignBottom="@+id/textView1"
+            android:layout_alignParentEnd="true"
+            android:layout_marginLeft="25dp"
+            android:layout_toEndOf="@+id/textView1"
+            android:entries="@array/lifepointsel"
+            android:padding="10dp"
+            android:prompt="@string/lifepoints"
+            android:spinnerMode="dropdown"></Spinner>
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:shadowColor="@android:color/darker_gray"
+            android:text="@string/lifepoints"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@android:color/white"></TextView>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/LinearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btnDuelCalculatorStart"
+            style="@android:style/Widget.Button"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:drawableTop="@drawable/icon_small"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="@string/startduel" />
+
+        <Button
+            android:id="@+id/btnManagePlayers"
+            style="@android:style/Widget.Button"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:drawableTop="@drawable/duelests"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="@string/manageplayers" />
+    </LinearLayout>
+
+</LinearLayout>
