@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Project: com.soylandtech.AnDuelDisk                              -->
+<!-- Created by Bjorn David Soyland <davidsoyland@gmail.com> -->
+<!-- on September 22, 2017 05:27 PM EDT -->
+<!-- Copyright (c) 2017 -->
+<!-- File Name: strings.xml -->
+<!-- -->
+
 <resources>
     <string name="app_name">AnDuelDisk</string>
     <string-array name="lifepointsel">

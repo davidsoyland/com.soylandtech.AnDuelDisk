@@ -1,3 +1,10 @@
+// Project: com.soylandtech.AnDuelDisk
+// Created by Bjorn David Soyland <davidsoyland@gmail.com>
+// on September 22, 2017 05:27 PM EDT
+// Copyright (c) 2017
+// File Name: PlayerDetails.java
+//
+
 package com.soylandtech.andueldisk;
 
 import com.soylandtech.andueldisk.database.PlayerDBAdapter;
@@ -32,13 +39,13 @@ public class PlayerDetails extends Activity {
 		
 		Bundle extras = getIntent().getExtras();
 		if(bundle != null){
-			rowId = (Long) bundle.getLong(PlayerDBAdapter.KEY_ROWID);
+			rowId = bundle.getLong(PlayerDBAdapter.KEY_ROWID);
 		}
 		else {
-			rowId = (Long) null;
+			rowId = null;
 		}
 		if(extras != null){
-			rowId = (Long) extras.getLong(PlayerDBAdapter.KEY_ROWID);
+			rowId = extras.getLong(PlayerDBAdapter.KEY_ROWID);
 		}
 		
 		

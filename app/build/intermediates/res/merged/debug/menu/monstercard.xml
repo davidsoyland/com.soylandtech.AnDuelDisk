@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- Copyright (c) 2017.  Bjorn David Soyland<davidsoyland@gmail.com -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
 <menu xmlns:android="http://schemas.android.com/apk/res/android" >
     <item android:id="@+id/menuSwitchAtk" android:title="@string/switch_atk"></item><item android:id="@+id/menuSwitchDef" android:title="@string/switch_def"></item><item android:id="@+id/menuAttack" android:title="@string/attack"></item>
     

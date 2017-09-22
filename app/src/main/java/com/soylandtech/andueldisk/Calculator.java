@@ -1,6 +1,10 @@
-/**
- * 
- */
+// Project: com.soylandtech.AnDuelDisk
+// Created by Bjorn David Soyland <davidsoyland@gmail.com>
+// on September 22, 2017 05:27 PM EDT
+// Copyright (c) 2017
+// File Name: Calculator.java
+//
+
 package com.soylandtech.andueldisk;
 
 import com.soylandtech.andueldisk.database.PlayerDBAdapter;
@@ -22,10 +26,7 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.TextView;
 
-/**
- * @author david
- *
- */
+
 public class Calculator extends Activity {
 	
 	/**

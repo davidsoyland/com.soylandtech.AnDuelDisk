@@ -1,3 +1,10 @@
+// Project: com.soylandtech.AnDuelDisk
+// Created by Bjorn David Soyland <davidsoyland@gmail.com>
+// on September 22, 2017 05:27 PM EDT
+// Copyright (c) 2017
+// File Name: ManagePlayers.java
+//
+
 package com.soylandtech.andueldisk;
 
 import com.soylandtech.andueldisk.database.PlayerDBAdapter;
@@ -52,8 +59,8 @@ public class ManagePlayers extends ListActivity {
 		txtHeadLosses = (TextView) findViewById(R.id.txtHeadLosses);
 		framePlayerList = (FrameLayout) findViewById(R.id.layPlayerList);
 		txtNoPlayers = (TextView) findViewById(R.id.txtNoPlayers);
-		imgArrowUp = (Drawable) getResources().getDrawable(android.R.drawable.arrow_up_float);
-	    imgArrowDown = (Drawable) getResources().getDrawable(android.R.drawable.arrow_down_float);
+		imgArrowUp = getResources().getDrawable(android.R.drawable.arrow_up_float);
+	    imgArrowDown = getResources().getDrawable(android.R.drawable.arrow_down_float);
 	    
 	    imgArrowUp.setBounds(0, 0, 15, 15);
 	    imgArrowDown.setBounds(0, 0, 15, 15);

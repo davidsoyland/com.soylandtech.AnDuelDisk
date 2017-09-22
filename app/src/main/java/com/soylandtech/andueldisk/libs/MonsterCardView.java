@@ -1,3 +1,10 @@
+// Project: com.soylandtech.AnDuelDisk
+// Created by Bjorn David Soyland <davidsoyland@gmail.com>
+// on September 22, 2017 05:27 PM EDT
+// Copyright (c) 2017
+// File Name: MonsterCardView.java
+//
+
 /**
  * 
  */
