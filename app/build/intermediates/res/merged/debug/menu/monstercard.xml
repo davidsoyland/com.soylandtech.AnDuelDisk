@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!-- Copyright (c) 2017.  Bjorn David Soyland<davidsoyland@gmail.com -->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- Project: com.soylandtech.AnDuelDisk                              -->
+<!-- Copyright (c) 2017 Bjorn David Soyland <davidsoyland@gmail.com> -->
+<!-- This project is licensed under the terms of the  -->
+<!-- GNU GENERAL PUBLIC LICENSE Version 3.0 -->
+<!-- File Name: monstercard.xml -->
+<!-- Created: September 26, 2017 12:53 AM EDT -->
 
 <menu xmlns:android="http://schemas.android.com/apk/res/android" >
     <item android:id="@+id/menuSwitchAtk" android:title="@string/switch_atk"></item><item android:id="@+id/menuSwitchDef" android:title="@string/switch_def"></item><item android:id="@+id/menuAttack" android:title="@string/attack"></item>

@@ -1,9 +1,9 @@
 // Project: com.soylandtech.AnDuelDisk
-// Created by Bjorn David Soyland <davidsoyland@gmail.com>
-// on September 22, 2017 05:27 PM EDT
-// Copyright (c) 2017
+// Copyright (c) 2017 Bjorn David Soyland <davidsoyland@gmail.com>
+// This project is licensed under the terms of the
+// GNU GENERAL PUBLIC LICENSE Version 3.0
 // File Name: PlayerDetails.java
-//
+// Created: September 26, 2017 01:00 AM EDT
 
 package com.soylandtech.andueldisk;
 

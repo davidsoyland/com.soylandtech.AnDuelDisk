@@ -1,13 +1,11 @@
 // Project: com.soylandtech.AnDuelDisk
-// Created by Bjorn David Soyland <davidsoyland@gmail.com>
-// on September 22, 2017 05:27 PM EDT
-// Copyright (c) 2017
+// Copyright (c) 2017 Bjorn David Soyland <davidsoyland@gmail.com>
+// This project is licensed under the terms of the
+// GNU GENERAL PUBLIC LICENSE Version 3.0
 // File Name: MonsterCardView.java
-//
+// Created: September 26, 2017 01:00 AM EDT
 
-/**
- * 
- */
+
 package com.soylandtech.andueldisk.libs;
 
 import android.content.Context;
@@ -17,10 +15,6 @@ import android.view.ContextMenu.ContextMenuInfo;
 import android.view.View;
 import android.widget.ImageView;
 
-/**
- * @author David
- *
- */
 public class MonsterCardView extends ImageView {
 
 	/**

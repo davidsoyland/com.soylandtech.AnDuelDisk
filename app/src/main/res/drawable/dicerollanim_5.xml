@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Project: com.soylandtech.AnDuelDisk                              -->
-<!-- Created by Bjorn David Soyland <davidsoyland@gmail.com> -->
-<!-- on September 22, 2017 05:27 PM EDT -->
-<!-- Copyright (c) 2017 -->
+<!-- Copyright (c) 2017 Bjorn David Soyland <davidsoyland@gmail.com> -->
+<!-- This project is licensed under the terms of the  -->
+<!-- GNU GENERAL PUBLIC LICENSE Version 3.0 -->
 <!-- File Name: dicerollanim_5.xml -->
-<!-- -->
+<!-- Created: September 26, 2017 01:00 AM EDT -->
 
 <animation-list android:oneshot="true"
   xmlns:android="http://schemas.android.com/apk/res/android">
